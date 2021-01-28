@@ -56,14 +56,12 @@ header {
     margin: auto;
     position: relative;
     height: 600px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
     .logo {
-      //   background: LightSlateGray;
-      display: block;
-      position: absolute;
-      top: 10px;
-      left: 50%;
-      transform: translate(-50%, 0);
       img {
+        width: 100%;
         max-width: 600px;
         height: auto;
       }
