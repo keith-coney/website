@@ -1,5 +1,5 @@
 {
-  "name": "gtc",
+  "name": "kcls",
   "version": "1.0.0",
   "description": "[![Build Status](https://travis-ci.org/Automattic/_s.svg?branch=master)](https://travis-ci.org/Automattic/_s)",
   "main": "index.js",
@@ -10,7 +10,7 @@
   "license": "ISC",
   "devDependencies": {
     "browser-sync": "^2.26.3",
-    "gulp": "^3.9.1",
+    "gulp": "^4.0.2",
     "gulp-concat": "^2.6.1",
     "gulp-connect-php": "^1.0.3",
     "gulp-sass": "^4.0.2",
@@ -18,7 +18,8 @@
   },
   "dependencies": {
     "bootstrap": "^4.3.1",
-    "gulp-sourcemaps": "^2.6.4",
+    "gulp-sourcemaps": "^2.6.5",
+    "gulp-uglifycss": "^1.1.0",
     "jquery": "^3.4.1",
     "scrollreveal": "^4.0.7"
   }
