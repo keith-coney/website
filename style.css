@@ -1206,4 +1206,4 @@ header{background:LightSlateGray url(bg.jpg) center bottom}header div{background
 header div .logo{display:block;position:absolute;top:10px;left:50%;transform:translate(-50%,0)}
 header div .logo img{max-width:600px;height:auto}.photo{margin-bottom:30px}.photo img{border-radius:50%;max-width:240px;margin:auto}
 .contact{background-color:LightSlateGray;margin-top:30px}.contact h3{color:#fff}.contact span{border-bottom:2px solid #fff;margin:10px 0;display:inline-block}
-.contact button{color:#fff;background-color:CadetBlue}
+.contact button{color:#fff;background-color:CadetBlue}.contact a{text-decoration:underline}
