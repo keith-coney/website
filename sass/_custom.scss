@@ -50,9 +50,9 @@ a.li {
 }
 
 header {
-  background: LightSlateGray url(bg.jpg) center bottom;
+  background: LightSlateGray url(bg.jpg) center bottom no-repeat;
+  background-size: cover;
   div {
-    background-size: cover;
     margin: auto;
     position: relative;
     height: 600px;
@@ -79,8 +79,9 @@ header {
 .contact {
   background-color: LightSlateGray;
   margin-top: 30px;
-  h3 {
-    color: #fff;
+  h4 {
+    max-width: 600px;
+    margin: auto;
   }
   span {
     border-bottom: 2px solid #fff;

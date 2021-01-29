@@ -1202,8 +1202,9 @@ a{color:#fff}h1,h3{font-family:"Bodoni Moda",serif;color:CadetBlue}h2{font-famil
 a.fb,a.li{margin-top:30px;text-align:center;display:inline-block;text-decoration:none}
 a.fb span,a.li span{padding:15px;border-radius:50%;display:inline-block;background:#444}
 a.fb i,a.li i{display:block}.intro{max-width:600px;margin:auto}.intro h2{margin-bottom:15px}
-header{background:LightSlateGray url(bg.jpg) center bottom}header div{background-size:cover;margin:auto;position:relative;height:600px;display:flex;align-items:center;justify-content:center}
+header{background:LightSlateGray url(bg.jpg) center bottom no-repeat;background-size:cover}
+header div{margin:auto;position:relative;height:600px;display:flex;align-items:center;justify-content:center}
 header div .logo img{width:100%;max-width:600px;height:auto}.photo{margin-bottom:30px}
 .photo img{border-radius:50%;max-width:240px;margin:auto}.contact{background-color:LightSlateGray;margin-top:30px}
-.contact h3{color:#fff}.contact span{border-bottom:2px solid #fff;margin:10px 0;display:inline-block}
+.contact h4{max-width:600px;margin:auto}.contact span{border-bottom:2px solid #fff;margin:10px 0;display:inline-block}
 .contact button{color:#fff;background-color:CadetBlue}.contact a{text-decoration:underline}
