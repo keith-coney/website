@@ -17,7 +17,7 @@ h1,
 h3 {
   //   font-family: "Cortado", sans-serif;
   font-family: "Bodoni Moda", serif;
-  color: CadetBlue;
+  color: SteelBlue;
 }
 h2 {
   //   font-family: railroad-gothic-atf, sans-serif;
@@ -56,6 +56,9 @@ header {
     margin: auto;
     position: relative;
     height: 600px;
+    @media (max-width: 760px) {
+      height: 460px;
+    }
     display: flex;
     align-items: center;
     justify-content: center;
@@ -90,7 +93,7 @@ header {
   }
   button {
     color: #fff;
-    background-color: CadetBlue;
+    background-color: SteelBlue;
   }
   a {
     text-decoration: underline;
