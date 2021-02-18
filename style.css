@@ -1201,10 +1201,10 @@ h2,h3{page-break-after:avoid}@page{size:a3}body{min-width:992px !important}.cont
 a{color:#fff}h1,h3{font-family:"Bodoni Moda",serif;color:SteelBlue}h2{font-family:"Nunito Sans",sans-serif}
 a.fb,a.li{margin-top:30px;text-align:center;display:inline-block;text-decoration:none}
 a.fb span,a.li span{padding:15px;border-radius:50%;display:inline-block;background:#444}
-a.fb i,a.li i{display:block}.intro{max-width:600px;margin:auto}.intro h2{margin-bottom:15px}
+a.fb i,a.li i{display:block}.intro{max-width:660px;margin:auto}.intro h2{margin-bottom:15px}
 header{background:LightSlateGray url(bg.jpg) center bottom no-repeat;background-size:cover}
 header div{margin:auto;position:relative;height:600px;display:flex;align-items:center;justify-content:center}
-@media(max-width:760px){header div{height:400px}}header div .logo img{width:100%;max-width:600px;height:auto}
+@media(max-width:760px){header div{height:460px}}header div .logo img{width:100%;max-width:600px;height:auto}
 .photo{margin-bottom:30px}.photo img{border-radius:50%;max-width:240px;margin:auto}
 .contact{background-color:LightSlateGray;margin-top:30px}.contact h4{max-width:600px;margin:auto}
 .contact span{border-bottom:2px solid #fff;margin:10px 0;display:inline-block}.contact button{color:#fff;background-color:SteelBlue}
