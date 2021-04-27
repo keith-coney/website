@@ -1208,4 +1208,5 @@ header div{margin:auto;position:relative;height:600px;display:flex;align-items:c
 .photo{margin-bottom:30px}.photo img{border-radius:50%;max-width:240px;margin:auto}
 .contact{background-color:LightSlateGray;margin-top:30px}.contact h4{max-width:600px;margin:auto}
 .contact span{border-bottom:2px solid #fff;margin:10px 0;display:inline-block}.contact button{color:#fff;background-color:SteelBlue}
-.contact a{text-decoration:underline}
+.contact a{text-decoration:underline}html#ecwid_html body#ecwid_body .ec-size .ec-store .grid-product__wrap-inner:hover .grid-product__title .grid-product__title-inner{color:steelblue !important}
+html#ecwid_html body#ecwid_body .ec-size .ec-store .grid__products .grid-product{width:100% !important;display:block}

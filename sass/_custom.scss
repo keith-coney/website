@@ -99,3 +99,31 @@ header {
     text-decoration: underline;
   }
 }
+
+// .modal-body {
+//   a {
+//     &:hover {
+//       color: steelblue;
+//     }
+//   }
+// }
+
+html#ecwid_html
+  body#ecwid_body
+  .ec-size
+  .ec-store
+  .grid-product__wrap-inner:hover
+  .grid-product__title
+  .grid-product__title-inner {
+  color: steelblue !important;
+}
+
+html#ecwid_html
+  body#ecwid_body
+  .ec-size
+  .ec-store
+  .grid__products
+  .grid-product {
+  width: 100% !important;
+  display: block;
+}
