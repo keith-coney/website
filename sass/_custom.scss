@@ -120,7 +120,7 @@ html#ecwid_html
 
 html#ecwid_html
   body#ecwid_body
-  .ec-size
+  .ec-size 
   .ec-store
   .grid__products
   .grid-product {
@@ -134,6 +134,9 @@ html#ecwid_html
 
 html#ecwid_html{
   a:hover{
+    color: #333 !important;
+  }
+  a.ec-link:visited{
     color: #333 !important;
   }
 }
