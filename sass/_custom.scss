@@ -133,10 +133,11 @@ html#ecwid_html
 }
 
 html#ecwid_html{
+  a,
   a:hover{
     color: #333 !important;
   }
 }
-.ec-link:visited{
+.ec-link, .ec-link:visited{
   color: #333 !important;
 }
