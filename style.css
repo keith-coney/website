@@ -1211,4 +1211,4 @@ header div{margin:auto;position:relative;height:600px;display:flex;align-items:c
 .contact a{text-decoration:underline}html#ecwid_html body#ecwid_body .ec-size .ec-store .grid-product__wrap-inner:hover .grid-product__title .grid-product__title-inner{color:steelblue !important}
 html#ecwid_html body#ecwid_body .ec-size .ec-store .grid__products .grid-product{width:100% !important;display:block}
 .ec-footer__row .footer__link--track-order{display:none !important}html#ecwid_html a,html#ecwid_html a:hover{color:#333 !important}
-.ec-link,.ec-link:visited{color:#333 !important}
+html#ecwid_html a.grid-product__title{padding:12px;margin:3px 0}.ec-link,.ec-link:visited{color:#333 !important}
