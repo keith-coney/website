@@ -1198,17 +1198,17 @@ h2,h3{page-break-after:avoid}@page{size:a3}body{min-width:992px !important}.cont
 .table td,.table th{background-color:#fff !important}.table-bordered td,.table-bordered th{border:1px solid #dee2e6 !important}
 .table-dark{color:inherit}.table-dark tbody+tbody,.table-dark td,.table-dark th,.table-dark thead th{border-color:#dee2e6}
 .table .thead-dark th{color:inherit;border-color:#dee2e6}}body{background:white;font-family:"Nunito Sans",sans-serif;color:DarkSlateGray}
-a{color:#fff}h1,h3{font-family:"Bodoni Moda",serif;color:SteelBlue}h2{font-family:"Nunito Sans",sans-serif}
+h1,h3{font-family:"Bodoni Moda",serif;color:SteelBlue}h2{font-family:"Nunito Sans",sans-serif}
 a.fb,a.li{margin-top:30px;text-align:center;display:inline-block;text-decoration:none}
 a.fb span,a.li span{padding:15px;border-radius:50%;display:inline-block;background:#444}
-a.fb i,a.li i{display:block}.intro{max-width:660px;margin:auto}.intro h2{margin-bottom:15px}
+a.fb i,a.li i{display:block}.intro{max-width:660px;margin:auto}.intro h1,.intro h2,.intro h3{margin-bottom:20px}
 header{background:LightSlateGray url(bg.jpg) center bottom no-repeat;background-size:cover}
 header div{margin:auto;position:relative;height:600px;display:flex;align-items:center;justify-content:center}
 @media(max-width:760px){header div{height:460px}}header div .logo img{width:100%;max-width:600px;height:auto}
 .photo{margin-bottom:30px}.photo img{border-radius:50%;max-width:240px;margin:auto}
 .contact{background-color:LightSlateGray;margin-top:30px}.contact h4{max-width:600px;margin:auto}
 .contact span{border-bottom:2px solid #fff;margin:10px 0;display:inline-block}.contact button{color:#fff;background-color:SteelBlue}
-.contact a{text-decoration:underline}html#ecwid_html body#ecwid_body .ec-size .ec-store .grid-product__wrap-inner:hover .grid-product__title .grid-product__title-inner{color:steelblue !important}
+.contact a,.contact a:visited{text-decoration:underline;color:#fff}html#ecwid_html body#ecwid_body .ec-size .ec-store .grid-product__wrap-inner:hover .grid-product__title .grid-product__title-inner{color:steelblue !important}
 html#ecwid_html body#ecwid_body .ec-size .ec-store .grid__products .grid-product{width:100% !important;display:block}
 .ec-footer__row .footer__link--track-order{display:none !important}html#ecwid_html a,html#ecwid_html a:hover{color:#333 !important}
 html#ecwid_html a.grid-product__title{padding:12px !important;margin:3px 0 !important}
